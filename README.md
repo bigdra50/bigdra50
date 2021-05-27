@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### ✨Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigdra50&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌟Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bigdra50)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💪Works
+
+
 <!--
 **bigdra50/bigdra50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
