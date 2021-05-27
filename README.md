@@ -9,6 +9,7 @@
 
 ### 💪Works
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bigdra50&repo=Works)](https://github.com/bigdra50/Works)
 
 <!--
 **bigdra50/bigdra50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
