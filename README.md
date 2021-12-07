@@ -1,6 +1,6 @@
 ### 🌟Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bigdra50&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&line_height=24)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bigdra50&hide=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&&line_height=24&custom_title=GitHubStats&disable_animations=false&theme=tokyonight)
 
 ### 💪Works
 
