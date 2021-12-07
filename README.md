@@ -1,6 +1,3 @@
-### ✨Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigdra50&theme=tokyonight&layout=compact)
-
 ### 🌟Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bigdra50&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&line_height=24)
