@@ -1,21 +1,30 @@
+<h1 align="center">Hi 👋, I'm bigdra50</h1>
+<h3 align="center">A xR developer from Japan</h3>
+
 [![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bigdra50&repo=Works&theme=tokyonight)](https://github.com/bigdra50/Works)
 
-<!--
-**bigdra50/bigdra50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigdra50&label=Profile%20views&color=0e75b6&style=flat" alt="bigdra50" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigdra50" alt="bigdra50" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/bigdra50" target="blank"><img src="https://img.shields.io/twitter/follow/bigdra50?logo=twitter&style=for-the-badge" alt="bigdra50" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/bigdra50/Works](https://github.com/bigdra50/Works)
+
+- 📝 I regularly write articles on [https://bigdra50.hatenablog.com/](https://bigdra50.hatenablog.com/)
+
+- 📫 How to reach me **bigdra50@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bigdra50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bigdra50" height="30" width="40" /></a>
+<a href="https://instagram.com/bigdra50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bigdra50" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDfsMm7wffAzBG2mkaI2SlQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucdfsmm7wffazbg2mkai2slq" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
