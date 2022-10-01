@@ -1,8 +1,7 @@
-### 🌟Stats
+[![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bigdra50&hide=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&&line_height=24&custom_title=GitHubStats&disable_animations=false&theme=tokyonight)
-
-### 💪Works
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bigdra50&repo=Works&theme=tokyonight)](https://github.com/bigdra50/Works)
 
