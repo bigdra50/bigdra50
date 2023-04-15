@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/bigdra50/bigdra50/master/profile-summary-card-output/darcula/4-productive-time.svg)
-```
-
-    
